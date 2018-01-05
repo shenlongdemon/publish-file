@@ -27,26 +27,23 @@
         <styleUrl>#highlightPlacemark</styleUrl>
       </Pair>
     </StyleMap>
-  <Placemark>    
-    <name>StyleMap example</name>
-    <description>
-     a
-    </description>
-    <ExtendedData>
+    <Placemark>
+      <name>Roll over this icon</name>
+      <ExtendedData>
       <Data name="holeNumber">
-        <value>1</value>
+        <value>5</value>
       </Data>
       <Data name="holeYardage">
-        <value>234</value>
+        <value>523</value>
       </Data>
       <Data name="holePar">
-        <value>4</value>
+        <value>5</value>
       </Data>
     </ExtendedData>
-    <styleUrl>#styleMapExample</styleUrl>
-    <Point>
-      <coordinates>-122.368987,37.817634,0</coordinates>
-    </Point>
-  </Placemark>
-</Document>
+      <styleUrl>#exampleStyleMap</styleUrl>
+      <Point>
+        <coordinates>-122.0856545755255,37.42243077405461,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
 </kml>
