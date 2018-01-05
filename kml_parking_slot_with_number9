@@ -40,6 +40,7 @@
         <value>5</value>
       </Data>
     </ExtendedData>
+    <description>Here is some descriptive text</description>
       <styleUrl>#exampleStyleMap</styleUrl>
       <Point>
         <coordinates>-122.0856545755255,37.42243077405461,0</coordinates>
