@@ -30,13 +30,19 @@
   <Placemark>    
     <name>StyleMap example</name>
     <description>
-     <![CDATA[
-          <h1>CDATA Tags are useful!</h1>
-          <p><font color="red">Text is <i>more readable</i> and 
-          <b>easier to write</b> when you can avoid using entity 
-          references.</font></p>
-        ]]>
+     a
     </description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
     <styleUrl>#styleMapExample</styleUrl>
     <Point>
       <coordinates>-122.368987,37.817634,0</coordinates>
