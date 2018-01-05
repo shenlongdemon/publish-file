@@ -37,6 +37,7 @@
     </Pair>
   </StyleMap>
   <Placemark>
+    <description></description>
     <name>StyleMap example</name>
     <styleUrl>#styleMapExample</styleUrl>
     <Point>
